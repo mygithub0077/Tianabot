@@ -2,19 +2,13 @@
 
 <h4 align="center">
     A Telegram Powerfull Group Managment Bot written in Python using Pyrogram and Telethon.
-</h4>
-<p align="center">
-    <a href="https://t.me/Tiana_Prince_Bot"> Ready-To-Use Bot </a> •
-    <a href="http://www.prince-botz.tk/2022/02/tiana-bot.html?m=1"> Documentation </a> •
-    <a href="https://t.me/TianaxUpdates"> Update Channel </a> •
-    <a href="https://t.me/TianaxSupport"> Support Chat </a> 
-</p>
+
     
-# Tiana Bot
+# my telegram
 #### Tiana is a Telegram group managment bot made using Telethon and Pyrogram which makes it modern and faster than most of the exisitng Telegram Chat Managers.
 <p align="center"><img src="https://telegra.ph/file/fae3dd2a2c6e491e4893e.jpg"></p>
 
-#### Tiana's features over other bots:
+#### my telegram  features over other bots:
 - Modern
 - Fast
 - Fully open-source
@@ -25,8 +19,7 @@
 - Smart Ai System
 - Easy To Use
 
-Can be found on Telegram as [@TianaRobot](https://t.me/TIANA_PRINCE_BOT)
-
+#contact 
 ## Deployment
 First Step!
 
